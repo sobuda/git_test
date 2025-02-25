@@ -1,1 +1,2 @@
-"Learning staging command: git add"
+"Learning staging command: git add"git 
+"test git commit"
